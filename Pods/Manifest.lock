@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.0)
+  - ProgressHUD (13.6.2)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.0)
+  - ProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  ProgressHUD: 355915c8f033e626788fa9b0d99d06e8691595ab
+
+PODFILE CHECKSUM: 1e8ac1ffa1a4d00872e0a9b5b5df7daf0af8d72d
+
+COCOAPODS: 1.11.3
